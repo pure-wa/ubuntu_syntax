@@ -74,6 +74,7 @@ do
         let d_count=d_count+1
     else
         let f_count=f_count+1
+    fi
 done
 echo "filecount is $f_count"
 echo "dircount is $d_count"
